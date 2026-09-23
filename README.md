@@ -8,7 +8,9 @@ O projeto transforma uma exportação cadastral extensa em uma superfície de an
 
 ## Demonstração
 
-A publicação via GitHub Pages será disponibilizada neste repositório. A aplicação é estática: os dados importados pelo usuário ficam somente no IndexedDB do navegador e não são enviados para servidores.
+[Abrir o painel publicado no GitHub Pages](https://provezanovsky.github.io/sigbm-market-intelligence/)
+
+A aplicação é estática: os dados importados pelo usuário ficam somente no IndexedDB do navegador e não são enviados para servidores.
 
 ## Principais recursos
 
