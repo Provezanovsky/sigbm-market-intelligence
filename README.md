@@ -105,9 +105,7 @@ O resultado é criado em `out/`.
 
 ## Autoria
 
-**Rafael Provezano** — concepção, diagnóstico de negócio, requisitos, análise dos dados e direção do produto.
-
-Implementação desenvolvida com assistência do OpenAI Codex. A utilização de IA é documentada para manter transparência sobre o processo de construção.
+**Rafael Provezano**: concepção, diagnóstico de negócio, requisitos, análise dos dados e direção do produto; implementação desenvolvida com assistência do OpenAI Codex.
 
 ## Licença
 
